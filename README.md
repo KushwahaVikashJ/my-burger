@@ -1,17 +1,10 @@
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### My-BURGER 
+ - This application built with React Js and ReduxJs.
+ - The application uses all the new features introduced in EcmaScript 6.
+ - The application is a single page application with proper components and is Mobile Responsive.
+ - The Application also used proper authentication and form validation and implements routing use React Router.
 
 Also you can see this app on browser by clicking on the below link:<br />
 ### open[https://my-builder.herokuapp.com/]
 
-This is a 
-### Burger Builder APP 
-where a user can simply add the ingredients to the burger as per his need and simply order for the same where he can also see the total price to pay.  
+
